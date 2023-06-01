@@ -1,2 +1,51 @@
 CHEATSHEET GIT GITHUB
 git init: sirve para inicializar el repocitorio
+git push origin main: subir al repositorio
+git commit -m "mensaje": para crear un commit o un punto guardado en la linea de tiempo
+git add .: guardar todo en el repositorio local y lo pasamos al stayging area
+git status: para ver el estado de los archivos
+
+cp *: para copiar todos los elementos que tenemos 
+cp carpeta/* : copiar elementos a otra carpeta
+
+touch : para crear archivos
+
+history>"direccion donde queremos redirrecionar": para guardar los comandos utilizados
+history: ver el historial de los comandos
+history *numero de la cantidad especifica deseada*: nos permite ver los los comandos desde donde indicamos
+
+mkdir : crear carpetas
+
+cd ..: para ir una carpeta atras
+cd para entrar a una carpeta
+
+rm -rf : para borrar un archivo git y para que no le haga preguntas
+rm -r: eliminar carpetas
+rm : eliminar archivos
+
+git log : me da todos los datos de los commit realizados
+git log --oneline: me muestra los comits realizados pero mas resumidos
+
+git remote add origin *url repositorio* : esto es para vincular un reposirotio local con un repositorio de la nuve
+
+git branch -M main : para cambiar el nombre de la rama
+git branch *nueva rama*: crear una nueva rama
+
+git remote -v: para saber si hay alguna vinculacion de repositorio
+
+git pull origin main: actualizar el repositorio
+
+git checkout *nombre de rama*: para posicionarse en una rama
+
+git branch: para saber en que rama estamos
+
+cat : nos muestra que tiene un archivo
+
+nano: nos permite editar un archivo
+
+ls -a : nos muestra el contenido donde estamos ubicados
+
+ls --help: nos muestra la ayuda de varios comandos
+
+mv *direccion del archivo* *nuevo nombre* *ruta destino*: para renombrar archivos y para renombar un archivo
+
