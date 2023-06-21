@@ -1,0 +1,3 @@
+inet addr:10.0.2.15
+ip publica: 179.14.140.193
+HWaddr 08:00:27:ba:43:46
